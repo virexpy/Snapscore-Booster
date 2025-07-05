@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c536.png" alt="Logo" width="120" height="120">
 
-  <h2 align="center">SnapScore Boost</h2>
+  <h2 align="center">Snapscore-Booster</h2>
 
   <p align="center">
     boost your Snapscore automatically and for free with this script
@@ -28,8 +28,8 @@
 ### Linux
 
 1. Open your terminal  
-2. Clone the repo: `git clone https://github.com/virexpy/SnapScore-Boost`  
-3. Go into the folder: `cd SnapScore-Boost`  
+2. Clone the repo: `git clone https://github.com/virexpy/Snapscore-Booster`  
+3. Go into the folder: `cd Snapscore-Booster`  
 4. Install the dependencies: `pip install -r requirements.txt`  
 5. Install `scrcpy` to control your Android phone  
 6. Connect your phone via USB or WiFi  
